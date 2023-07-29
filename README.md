@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/TfU6NWr.png" alt="rust" width="40" height="40"/> </a>  
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/L4wgtAA.png" alt="rust" width="40" height="40"/> </a>  
 </p>
 
 <!--
