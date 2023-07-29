@@ -6,6 +6,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/L4wgtAA.png" alt="rust" width="40" height="40"/> </a>  
+  <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/cA45XiQ.png" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/h3ztGSg.png" alt="go" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/S3d9x3u.png" alt="go" width="40" height="40"/> </a>
+  
 </p>
 
 <!--
