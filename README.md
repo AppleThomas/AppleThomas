@@ -1,5 +1,5 @@
 <h1 align="center">Hi!! I'm Thomas 🐸</h1>
-<h3 align="center">A Senior studying Computer Scientist at University of Central Florida</h3>
+<h3>A Senior studying Computer Scientist at University of Central Florida</h3>
 
 - ⚙️ I’m currently interested in and learning **Rust, Go, Docker, and Kubernetes**
 
