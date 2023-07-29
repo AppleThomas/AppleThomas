@@ -1,4 +1,12 @@
-### Hi!! I'm Thomas 🐸
+<h1 align="center">Hi!! I'm Thomas 🐸</h1>
+<h3 align="center">A Senior studying Computer Scientist at University of Central Florida</h3>
+
+- ⚙️ I’m currently interested in and learning **Rust, Go, Docker, and Kubernetes**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/TfU6NWr.png" alt="rust" width="40" height="40"/> </a>  
+</p>
 
 <!--
 **AppleThomas/AppleThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
